@@ -1,0 +1,2 @@
+# GboardDictionary
+Gboard词典可以更快地找到你想要的词语
