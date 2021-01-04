@@ -1,6 +1,4 @@
 # GboardDictionary
-
-# GboardDictionary
 更好地体验Gboard，让Gboard生机勃勃
 #### 介绍
 ### 个人词典(`.zip`)
